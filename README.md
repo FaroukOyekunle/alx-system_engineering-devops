@@ -1,1 +1,1 @@
-Write a script that prints the absolute path name of the current working directory.
+This repo contains a directory named 0x00-shell_basics that has a file named 0-current_working_directory which as well contains the command the is used to print the absolute path of a current working directory
