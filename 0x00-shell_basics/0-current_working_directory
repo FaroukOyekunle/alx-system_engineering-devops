@@ -1,2 +1,2 @@
 #!/bin/bash
-This file named 0-current_working_directory has a content which says Write a script that prints the absolute path name of the current working directory.
+pwd
