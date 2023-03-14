@@ -5,3 +5,4 @@
 4. Taks 3-paths: Create a script that counts the number of directories in the PATH.
 5. Tasks 4-global_variables: Create a script that lists environment variables.
 6. Tasks 5-local_variables: Create a script that lists all local variables and environment variables, and functions.
+7. Tasks 6-create_local_variable: Create a script that creates a new local variable. Name: BEST, Value: School
